@@ -4,7 +4,6 @@
 
 I am currently involved in web development. I enjoy learning about application design, development, deployment, automation, CICD(Continuous Integration), CM(Continous Monitoring) and other areas of application development. I also enjoy learning emerging technologies and like to try to keep myself updated with continous changes in technologies happening in the world.
 
-> 🔭 I’m currently working on myself !
 
 Skills: VUE JS / REACT / LARAVEL / NODE / GIT
 
