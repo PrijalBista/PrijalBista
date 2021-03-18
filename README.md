@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Prijal%20Bista-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/prijal-bista/)
 [![Mail](https://img.shields.io/badge/Gmail-pri1.zzal@gmail.com-blue?logo=Gmail&labelColor=black)](mailto:pri1.zzal@gmail.com)
 [![Mail](https://img.shields.io/badge/Gmail-prijalbista19@gmail.com-blue?logo=Gmail&labelColor=black)](mailto:prijalbista19@gmail.com)
-
+[![HackerRank](https://img.shields.io/badge/HackerRank-prijal_bista-brightgreen?logo=HackerRank&logoColor=Green&labelColor=black)](https://www.hackerrank.com/prijal_bista)
 <h2></h2>
 
 ![Computer Engineer from Nepal](https://images.unsplash.com/photo-1509718443690-d8e2fb3474b7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&h=200&q=80)
