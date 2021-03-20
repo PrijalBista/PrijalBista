@@ -4,7 +4,8 @@
    logos supported in shield.io badge: https://github.com/badges/shields/blob/master/doc/logos.md
    badges for language and tools: https://github.com/Ileriayo/markdown-badges
    github readme stats: https://github.com/anuraghazra/github-readme-stats
-   github streaks: https://github.com/DenverCoder1/github-readme-streak-stats
+   github streaks stats: https://github.com/DenverCoder1/github-readme-streak-stats
+   github profile view counter: https://github.com/arturssmirnovs/github-profile-views-counter
 --->
 
 ### Hi there 👋, I'm Prijal Bista
