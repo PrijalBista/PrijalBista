@@ -1,3 +1,12 @@
+<!---
+   Useful links helpful for using Shields.io: https://shields.io/
+   basic badge with logo: https://img.shields.io/badge/Gmail-pri1.zzal@gmail.com-blue?logo=Gmail&labelColor=black
+   logos supported in shield.io badge: https://github.com/badges/shields/blob/master/doc/logos.md
+   badges for language and tools: https://github.com/Ileriayo/markdown-badges
+   github readme stats: https://github.com/anuraghazra/github-readme-stats
+   github streaks: https://github.com/DenverCoder1/github-readme-streak-stats
+--->
+
 ### Hi there 👋, I'm Prijal Bista
 #### Computer Engineer from Nepal
 
