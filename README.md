@@ -20,7 +20,7 @@
 
 ![Computer Engineer from Nepal](https://images.unsplash.com/photo-1509718443690-d8e2fb3474b7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&h=200&q=80)
 
-I am currently involved in web development. I enjoy learning about application design, development, deployment, automation, CICD(Continuous Integration), CM(Continous Monitoring) and other areas of application development. I also enjoy learning emerging technologies and like to try to keep myself updated with continous changes in technologies happening in the world. Im actively working on Laravel and NuxtJs.
+I am currently involved in web development. I enjoy learning about application design, development, deployment, automation, CICD(Continuous Integration) and other areas of application development. I also enjoy learning emerging technologies and like to try to keep myself updated with continous changes in technologies happening in the world. Im actively working on Laravel and NuxtJs.
 
 💻 **Languages and Tools:** 🛠️<br><br>
 <img alt="C" height="25px" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img alt="C++" height="25px" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img alt="JavaScript" height="25px" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="Java" height="25px" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img alt="Python" height="25px" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
