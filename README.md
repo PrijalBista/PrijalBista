@@ -8,7 +8,7 @@
    github profile view counter: https://github.com/arturssmirnovs/github-profile-views-counter
 --->
 
-### Hi there 👋, I'm Prijal Bista
+### Hello there 👋, I'm Prijal Bista
 #### Computer Engineer from Nepal
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Prijal%20Bista-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/prijal-bista/)
